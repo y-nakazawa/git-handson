@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello git 
 はろーぎっと
+=======
+Hello ハンズオン
+こんにちは ハンズオン
+>>>>>>> feature/handson
