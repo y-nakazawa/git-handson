@@ -1,5 +1,2 @@
-Hello git 11112222
-Hello ハンズオン 22224444
-Hello git
-Hello ハンズオン
-Hello ハンズオン2
+Hello git 
+はろーぎっと
